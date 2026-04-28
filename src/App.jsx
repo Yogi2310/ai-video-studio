@@ -9,7 +9,7 @@ import './index.css';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/ai-video-studio">
+    <BrowserRouter basename="/CodeCraft">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

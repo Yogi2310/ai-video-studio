@@ -1,3 +1,4 @@
 @echo off
-npm install @vitejs/plugin-react --save-dev
-echo INSTALL_DONE
+echo Installing gh-pages...
+npm install gh-pages --save-dev
+echo DONE

@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/Yogi2310/ai-video-studio.git -b gh-pages"
+    "deploy": "gh-pages -d dist -r https://github.com/Yogi2310/CodeCraft.git -b gh-pages"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.1",
