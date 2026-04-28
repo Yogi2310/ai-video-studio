@@ -9,7 +9,7 @@ import './index.css';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ai-video-studio">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
