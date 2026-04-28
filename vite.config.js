@@ -7,7 +7,7 @@ import react from '@vitejs/plugin-react';
 // If using a custom domain or username.github.io root repo, use base = '/'
 export default defineConfig({
   plugins: [react()],
-  base: '/codecraft-pro/',
+  base: '/ai-video-studio/',
   build: {
     outDir: 'dist',
     sourcemap: false,
